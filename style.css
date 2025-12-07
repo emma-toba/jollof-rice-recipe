@@ -42,6 +42,7 @@ h2 {
 .ingredients-and-instructions {
     display: flex;
     gap: 20px;
+    background: ffe6c4;
 }
 
 .ingredients {
