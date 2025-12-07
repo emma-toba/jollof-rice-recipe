@@ -51,3 +51,9 @@ ingredients {
 .instructions {
     flex: 2;
 }
+
+section:hover {
+  transform: scale(1.01);
+  transition: 0.2s;
+
+}
