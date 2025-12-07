@@ -11,3 +11,10 @@ body {
   padding: 20px;
 }
 
+header {
+    text-align: center;
+    padding: 20px;
+    background: #ffb84d;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
