@@ -11,7 +11,7 @@ body {
 header {
     text-align: center;
     padding: 20px;
-    background: #ffb84d;
+    background: #ff4500;
     border-radius: 10px;
     margin-bottom: 20px;
 }
@@ -69,6 +69,6 @@ section:hover {
 footer {
     text-align: center;
     padding: 10px;
-    background: #ffe6c4;
+    background: #d2691e;
     border-radius: 10px;
 }
