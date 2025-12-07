@@ -23,7 +23,7 @@ header h1 {
 
 /* Layout using Flexbox */
 section {
-    background: whitesmoke;
+    background: #808080;
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 10px;
@@ -70,6 +70,6 @@ section:hover {
 footer {
     text-align: center;
     padding: 10px;
-    background: #d2691e;
+    background: linen;
     border-radius: 10px;
 }
