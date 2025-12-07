@@ -44,7 +44,7 @@ h2 {
     gap: 20px;
 }
 
-ingredients {
+.ingredients {
     flex: 1;
 }
 
