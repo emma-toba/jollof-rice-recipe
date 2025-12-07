@@ -15,7 +15,7 @@ header {
     background: #ffb84d;
     border-radius: 10px;
     margin-bottom: 20px;
-    text-color: mintcream
+  
 }
 
 header h1 {
@@ -71,6 +71,6 @@ section:hover {
 footer {
     text-align: center;
     padding: 10px;
-    background: linen;
+    background: ivory;
     border-radius: 10px;
 }
