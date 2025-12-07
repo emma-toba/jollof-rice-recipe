@@ -5,13 +5,14 @@ body {
   color: eca427;
   margin: 0;
   line-height: 1.6;
+  padding: 20px;
 }
 
 /* Header */
 header {
     text-align: center;
     padding: 20px;
-    background: #ff4500;
+    background: #ffb84d;
     border-radius: 10px;
     margin-bottom: 20px;
 }
