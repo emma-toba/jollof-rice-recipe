@@ -43,3 +43,11 @@ h2 {
     display: flex;
     gap: 20px;
 }
+
+ingredients {
+    flex: 1;
+}
+
+.instructions {
+    flex: 2;
+}
