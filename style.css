@@ -23,7 +23,7 @@ header h1 {
 
 /* Layout using Flexbox */
 section {
-    background: #f5f5f5;
+    background: gray;
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 10px;
